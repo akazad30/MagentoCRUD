@@ -1,0 +1,1 @@
+http://www.codexpedia.com/magento/create-read-update-and-delete-with-magento-database/
